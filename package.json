@@ -1,0 +1,19 @@
+{
+  "name": "three_js",
+  "description": "This repo is to learn three.js syntax and experiment with the library.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Omar Moreta",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "vite": "^4.3.6"
+  }
+}
